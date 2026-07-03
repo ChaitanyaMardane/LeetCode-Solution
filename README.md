@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0739-daily-temperatures](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0739-daily-temperatures) |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
