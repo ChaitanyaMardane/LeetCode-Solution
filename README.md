@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0739-daily-temperatures](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
