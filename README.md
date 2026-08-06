@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0078-subsets) |
@@ -40,10 +41,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
