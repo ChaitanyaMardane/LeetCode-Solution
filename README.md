@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0078-subsets) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
