@@ -7,19 +7,15 @@ class Solution {
         Set<Integer> set = new HashSet<>();
         long maxSum=0;
         for(int i=0; i < n ; i++){
-          
-            if(!set.contains(arr[i])){
-                 set.add(arr[i]);
-                 sum+=arr[i];
-            }
-            else{
-               while(set.contains(arr[i])){
+             while(set.contains(arr[i])){
                 sum-=arr[j];
                 set.remove(arr[j++]);
                }
-               set.add(arr[i]);
-               sum+=arr[i];
-            }
+          
+           
+                 set.add(arr[i]);
+                 sum+=arr[i];
+           
             if(i-j+1==k && set.size()==k){
               maxSum=Math.max(maxSum,sum); 
               sum-=arr[j];
