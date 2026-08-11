@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0213-house-robber-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
