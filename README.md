@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0705-design-hashset](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -64,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
