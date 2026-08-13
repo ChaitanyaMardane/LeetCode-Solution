@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0706-design-hashmap) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
