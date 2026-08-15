@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0507-perfect-number](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0507-perfect-number) |
 | [2427-number-of-common-factors](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Enumeration
 |  |
 | ------- |
