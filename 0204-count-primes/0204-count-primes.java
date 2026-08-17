@@ -12,8 +12,8 @@ class Solution {
         //         cnt++;
         // }
         // if (n>1)
-        for (long i = 2; i * i <= n; i++) {
-            if (prime[(int) i]) {
+        for (int i = 2; i * i <= n; i++) {
+            if (prime[i]) {
                 for (long j = (long) i * i; j < n; j += i) {
                     prime[(int) j] = false;
 
