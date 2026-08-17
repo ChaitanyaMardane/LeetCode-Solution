@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
@@ -128,16 +129,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0507-perfect-number) |
 | [2427-number-of-common-factors](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
@@ -147,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
