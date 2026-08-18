@@ -2,7 +2,7 @@ class Solution {
     public int commonFactors(int a, int b) {
         int n = gcd(a,b);
         int ans =1;
-        for (int  i = 2 ; i<=n;i++){
+        for (int  i = 2 ; i*i<=n;i++){
         int cnt = 1;
             while(n%i==0){
                 cnt++;
