@@ -1,15 +1,19 @@
 class Solution {
     public int commonFactors(int a, int b) {
-        int cnt = 1;
-        int n = a>b?b:a;
+        int n = gcd(a,b);
+        int ans =1;
         for (int  i = 2 ; i<=n;i++){
-            if(a%i==0 && b%i==0){
+        int cnt = 1;
+            while(n%i==0){
                 cnt++;
+                n/=i;
                 // if(i!=n%i)cnt++;
             }
+        ans*=cnt;
         }
-        return cnt;
-
-        
+        return n>1?ans*2:ans; 
+    }
+    public int gcd ( int a , int b ){
+        return b==0?a:gcd(b,a%b);
     }
 }
