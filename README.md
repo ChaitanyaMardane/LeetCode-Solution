@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0786-k-th-smallest-prime-fraction) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Stack
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0507-perfect-number) |
 | [2427-number-of-common-factors](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Enumeration
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Euclidean Algorithm
 |  |
 | ------- |
