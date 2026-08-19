@@ -1,24 +1,28 @@
 class Solution {
     public double myPow(double x, int n) {
-        long N = n;
-        if (N < 0) {
-            x = 1 / x;
-            N = -N;
-        }
+        if(n==0)return 1;
+        long N=n;
+    if(n<0){
+        N=N*-1;
+        x=1/x;
+    }
+    
+    double a=x;
+    System.out.println(n);
+    return pow(a,N);
+    }
+    public double pow(double a, long b){
+        if(b==0)return 1;
+        if(b==1) return a;
         
-        double ans = 1.0;
-        double currentProduct = x;
-        
-        while (N > 0) {
-            // If N is odd, multiply the current product into the answer
-            if ((N & 1) == 1) {
-                ans *= currentProduct;
-            }
-            // Square the base for the next bit position
-            currentProduct *= currentProduct;
-            // Shift right to divide N by 2
-            N >>= 1;
+        if(b%2==0){
+           double ans = pow(a,b/2);
+           return ans*ans;
         }
-        return ans;
+        else{
+            double ans = pow(a,(b-1)/2);
+            return ans*ans*a;
+        }
+    
     }
 }
