@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0223-rectangle-area) |
 | [0507-perfect-number](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0507-perfect-number) |
 | [0908-smallest-range-i](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0908-smallest-range-i) |
 | [2427-number-of-common-factors](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0050-powx-n) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
