@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0908-smallest-range-i](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0908-smallest-range-i) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0706-design-hashmap) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0223-rectangle-area) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
