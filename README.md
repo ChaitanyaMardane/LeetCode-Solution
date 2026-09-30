@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0705-design-hashset) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
