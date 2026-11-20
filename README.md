@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0908-smallest-range-i](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0908-smallest-range-i) |
+| [0931-minimum-falling-path-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0931-minimum-falling-path-sum) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0931-minimum-falling-path-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -213,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
