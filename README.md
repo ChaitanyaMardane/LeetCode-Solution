@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Stack
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0706-design-hashmap) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Enumeration
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
