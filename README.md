@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -251,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0518-coin-change-ii) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
