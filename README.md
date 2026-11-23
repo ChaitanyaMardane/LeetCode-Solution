@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0322-coin-change) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Complete Knapsack
 |  |
@@ -263,4 +266,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
