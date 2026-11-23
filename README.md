@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0908-smallest-range-i](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0908-smallest-range-i) |
 | [0931-minimum-falling-path-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0931-minimum-falling-path-sum) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0931-minimum-falling-path-sum) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0322-coin-change) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Complete Knapsack
 |  |
 | ------- |
