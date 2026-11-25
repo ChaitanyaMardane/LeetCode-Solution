@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0516-longest-palindromic-subsequence) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0876-middle-of-the-linked-list](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1092-shortest-common-supersequence) |
