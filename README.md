@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ChaitanyaMardane/LeetCode-Solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Longest Common Subsequence
 |  |
 | ------- |
