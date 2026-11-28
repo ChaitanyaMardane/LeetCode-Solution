@@ -16,7 +16,7 @@ public:
         }
         vector<int> curr(n+1,0);
         for( int i = 1 ; i <=m ; i++){
-            curr[0]+=s1[i-1];
+            curr[0]=prev[0] + s1[i - 1];
             for( int j = 1 ; j <=n ; j++){
 
                 if(s1[i-1]==s2[j-1]){
@@ -25,7 +25,7 @@ public:
                     curr[j]=min(prev[j]+s1[i-1],curr[j-1]+ s2[j-1]);
                 }
             }
-            prev=curr;
+           swap(prev, curr);
 
         }
         return prev[n];
